@@ -1,16 +1,14 @@
-### Hi there 👋
+### 你好，我是中二Devil。
 
-<!--
-**z2devil/z2devil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+我是一个有游戏梦🎮、喜欢设计✒️的前端工程师💻。
 
-Here are some ideas to get you started:
+[![blog](https://img.shields.io/badge/-Blog-f15642)](https://z2devil.cn/) [![bilibili](https://img.shields.io/badge/-Bilibili-00a1d6)](https://space.bilibili.com/3284913) [![twitter](https://img.shields.io/twitter/url?label=twitter&style=social&url=http%3A%2F%2Ftwitter%2Fz2_devil)](https://twitter.com/z2_devil)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z2devil&layout=compact&locale=cn&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+
+
+
+<!-- [![twitter](https://img.shields.io/twitter/url?label=twitter&style=social&url=http%3A%2F%2Ftwitter%2Fz2_devil)](https://twitter.com/z2_devil) -->
+
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
+
