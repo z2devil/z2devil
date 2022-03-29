@@ -8,5 +8,3 @@
 
 
 <!-- [![twitter](https://img.shields.io/twitter/url?label=twitter&style=social&url=http%3A%2F%2Ftwitter%2Fz2_devil)](https://twitter.com/z2_devil) -->
-
-![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)
