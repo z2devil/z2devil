@@ -11,4 +11,4 @@
 
 **My Github stats**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2devil&show_icon=true&theme=radical&bg_color=bg_color=0f2027,203a43,2c5364&title_color=fff&text_color=fff)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z2devil&show_icons=true&theme=radical&bg_color=bg_color=0f2027,203a43,2c5364&title_color=fff&text_color=fff)
