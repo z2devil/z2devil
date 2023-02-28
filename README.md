@@ -11,8 +11,7 @@ A front-end engineer 💻 who dreams of games 🎮 and loves design✒️.
 
 
 ### My Top Langs
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z2devil&layout=compact&locale=cn&theme=vue&show_icons=true&bg_color=FFEFD6&title_color=0E5E6F&text_color=3A8891&icon_color=3A8891)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=z2devil&layout=compact&locale=cn&theme=vue&show_icons=true&bg_color=FFEFD6&title_color=0E5E6F&text_color=3A8891&icon_color=3A8891)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ### Reach Me
