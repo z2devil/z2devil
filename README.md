@@ -2,7 +2,7 @@
 
 我是一个有游戏梦🎮、喜欢设计✒️的前端工程师💻。
 
-A front-end engineer 💻 who dreams of games 🎮 and loves design✒️.
+I am a frontend engineer 💻 with a dream of making games 🎮 and a passion for design ✒️.
 
 
 ### My Github Stats
